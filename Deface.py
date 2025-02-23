@@ -23,15 +23,15 @@ def bannar ():
 
   print ('\033[94m-'*50)
   print ''
-  print ' \033[96m Author   : \033[95m Dark Hunter 141'
+  print ' \033[96m Author   : \033[95m TEAM 7DSS'
   print ''
   print ' \033[96m Tool     : \033[95m Deface Generator'
   print ''
-  print' \033[96m Facebook : \033[95m https://www.facebook.com/darkhunter141/'
+  print' \033[96m Facebook : \033[95m https://www.facebook.com/7dss/'
   print ''
-  print ' \033[96m Github   : \033[95m https://www.github.com/darkhunter141/'
+  print ' \033[96m Github   : \033[95m https://www.github.com/7dss-dark-404/'
   print ''
-  print ' \033[96m Coded By : \033[95m Dark Wolf , DarkXploit'
+  print ' \033[96m Coded By : \033[95m TEAM 7DSS '
   print ''
   print ('\033[94m-'*50)
   print ''
